@@ -11,7 +11,7 @@ More recently I started the [OpenLineage](https://openlineage.io) project while 
 I blog at [Sympathetic.Ink](https://sympathetic.ink)
 
 # Projects
-- Apache Parquet: co-creator, PMC menber, PMC chair 2015-2021
+- Apache Parquet: co-creator, PMC chair
 - Apache Arrow: co-creator and PMC member
 - Apache Pig: PMC member, PMC chair 2013
 - Apache Iceberg: PMC member
