@@ -26,12 +26,10 @@ I blog at [Sympathetic.Ink](https://sympathetic.ink)
 {% include youtube.html id="qe0SeC0Hr_k" %}
 
 ## DC_THURS
- - Data Lineage w/ Julien Le Dem (Datakin)
-{% include youtube.html id="SRAzJalG0YM" %}
+ - [Data Lineage w/ Julien Le Dem (Datakin)](https://www.youtube.com/watch?v=SRAzJalG0YM)
 
 ## Data Driven NYC
- - Data Observability and Pipelines: OpenLineage and Marquez
-{% include youtube.html id="MoW-YGjHLgI" %}
+ - [Data Observability and Pipelines: OpenLineage and Marquez](https://www.youtube.com/watch?v=MoW-YGjHLgI)
 
 ## Data engineering podcast
  - [Data Serialization Formats with Doug Cutting and Julien Le Dem](https://www.dataengineeringpodcast.com/data-serialization-with-doug-cutting-and-julien-le-dem-episode-8)
@@ -52,15 +50,10 @@ You'll also find a [playlist of talks recordings on Youtube](https://www.youtube
 ## Nurturing Open Source communities
  - Data Council 2024: Ten+ years of building open source standards.
  {% include youtube.html id="qpJ5izI7vKQ" %}
- - SBTB 2023: Ten years of building open source standards.
- {% include youtube.html id="Xz6HiLa18BA" %}
- - Data Council 2023: Ten years of building open source standards: From Parquet to Arrow to OpenLineage
- {% include youtube.html id="x8BQM-q0mAo" %}
- - Airflow Summit 2023: Nurturing an Open Source Community is Like Tending a Garden
- {% include youtube.html id="incWquQPr4U" %}
- - Subsurface 2023: Ten years of building open source standards: From Parquet to Arrow to OpenLineage
- {% include youtube.html id="39_R2m30LRk" %}
-
+ - SBTB 2023: Ten years of building open source standards. [video](https://www.youtube.com/watch?v=Xz6HiLa18BA)
+ - Data Council 2023: Ten years of building open source standards: From Parquet to Arrow to OpenLineage [video](https://www.youtube.com/watch?v=x8BQM-q0mAo)
+ - Airflow Summit 2023: Nurturing an Open Source Community is Like Tending a Garden [video](https://www.youtube.com/watch?v=incWquQPr4U)
+ - Subsurface 2023: Ten years of building open source standards: From Parquet to Arrow to OpenLineage [video](https://www.youtube.com/watch?v=39_R2m30LRk)
 
 ## Open Data Lineage: OpenLineage, Marquez
  - Data and AI summit 2023: Cross-Platform Data Lineage with OpenLineage
@@ -83,19 +76,15 @@ You'll also find a [playlist of talks recordings on Youtube](https://www.youtube
 ## Columnar formats: Parquet, Arrow
  - Data Works Summit 2018: The columnar roadmap, Apache Parquet and Apache Arrow
  {% include youtube.html id="dPb2ZXnt2_U" %}
- - NABD Conference 2017: The future of column-oriented data processing with Arrow and Parquet
- {% include youtube.html id="PuIVPGbhAFE" %}
+ - NABD Conference 2017: The future of column-oriented data processing with Arrow and Parquet [video](https://www.youtube.com/watch?v=PuIVPGbhAFE)
  - Strata NY 2017: [The columnar roadmap, Apache Parquet and Apache Arrow](slides/stratanyj2017parquetarrowroadmap-170928173153.pptx) [Video](https://www.oreilly.com/library/view/strata-data-conference/9781491976326/video316477.html)
  - Mulesoft March 2017: [The future of column-oriented data processing with Arrow and Parquet](slides/mulesoftmar2017parquetarrow-170405025651.pptx)
- - Spark Summit 2017: [Improving Python and Spark Performance and Interoperability with Apache Arrow](slides/sparksummitsf2017v9-170607220323.pptx)
-  {% include youtube.html id="44Bu0o1nsD4" %}
+ - Spark Summit 2017: [Improving Python and Spark Performance and Interoperability with Apache Arrow](slides/sparksummitsf2017v9-170607220323.pptx) [video](https://www.youtube.com/watch?v=44Bu0o1nsD4)
  - Hadoop Summit 2017: [The columnar roadmap, Apache Parquet and Apache Arrow](slides/hadoopsummitsj2017parquetarrowroadmap-170615230306.pptx)
  - Strata NY 2016: [The future of column-oriented data processing with Arrow and Parquet](slides/stratany2016parquetarrow-160930180520.pptx)
- - Berlin Buzzwords 2016: Efficient Data formats for Analytics with Parquet and Arrow
- {% include youtube.html id="43O5BCabBcU" %}
+ - Berlin Buzzwords 2016: Efficient Data formats for Analytics with Parquet and Arrow [video](https://www.youtube.com/watch?v=43O5BCabBcU)
  - Strata London 2016: [The future of column oriented data processing with Arrow and Parquet](slides/stratalondonparquetarrow-160602155004.pdf)
- - Data Eng Conf NY November 2016: [The future of column-oriented data processing with Arrow and Parquet](slides/dataengconfnynov2016parquetarrow-161104233001.pptx)
- {% include youtube.html id="6lCVKMQR8Dw" %}
+ - Data Eng Conf NY November 2016: [The future of column-oriented data processing with Arrow and Parquet](slides/dataengconfnynov2016parquetarrow-161104233001.pptx) [video](https://www.youtube.com/watch?v=6lCVKMQR8Dw)
  - Big Data Apps meetup Jan 2016: [SQL-on-Everything with Apache Drill](slides/sqloneverythingwithdrill-160128183101.pdf)
  - Hadoop Summit 2015: [How to use Parquet as a basis for ETL and analytics](slides/howtouseparquethadoopsummitsanjose2015-150616000241-lva1-app6892.pdf)
  - Strata 2015: [How to use Parquet as a basis for ETL and analytics](slides/howtouseparquetstratasanjose2015-150220193807-conversion-gate01.pdf)
