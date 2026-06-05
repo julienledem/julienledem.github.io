@@ -64,7 +64,6 @@ Here is a selection by theme.
 
 ## Columnar formats: Parquet, Arrow
  - Iceberg Summit (keynote) Apr 8, 2026: Column Storage for the AI era [video](https://www.youtube.com/watch?v=qWU3u_2KG-s) [slides](https://docs.google.com/presentation/d/17mYH1CRpXpSBHPe-UNEYzRDCemmEh19VsYvcj4ZI3dk/edit)
- {% include youtube.html id="qWU3u_2KG-s" %}
  - Data Works Summit 2018: The columnar roadmap, Apache Parquet and Apache Arrow
  {% include youtube.html id="dPb2ZXnt2_U" %}
  - Strata NY 2017: [The columnar roadmap, Apache Parquet and Apache Arrow](slides/stratanyj2017parquetarrowroadmap-170928173153.pptx) [Video](https://www.oreilly.com/library/view/strata-data-conference/9781491976326/video316477.html)

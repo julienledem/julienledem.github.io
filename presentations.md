@@ -4,7 +4,7 @@
 
 - The Dive Jun 2, 2026: Column storage for the AI era [slides](https://docs.google.com/presentation/d/1LBVxvTdlCsrzqkNHm2-LGOVGDaN-FxpnUkmp2vgryDI/edit) 
 - AI Council May 12, 2026: The Deconstructed Database at Datadog [slides](https://docs.google.com/presentation/d/15P9b31WMikTxBcFf0OU0dJW3K33mX-ZL6yQEaYqS4Yg/edit)
-- Open XData Conf Apr 29, 2026: Column Storage for the AI era [video](https://www.youtube.com/watch?v=s_hhVWJkWpI) [slides]()
+- Open XData Conf Apr 29, 2026: Column Storage for the AI era [video](https://www.youtube.com/watch?v=s_hhVWJkWpI) [slides](https://docs.google.com/presentation/d/1w1w-RrbSzEWxE4GdHSzjtaB44cEofapu9srRhN8b6Hg/edit)
 - Data Engineering Open Forum Apr 16, 2026: Column Storage for the AI era [video](https://www.youtube.com/watch?v=6_lOFlnlHH8) [slides](https://docs.google.com/presentation/d/1bu4aIrFpHtuIOtQQ2U6WeJXDB0qXx3JzUs6dvx9DJAA/edit)
 - Iceberg Summit (keynote) Apr 8, 2026: Column Storage for the AI era [video](https://www.youtube.com/watch?v=qWU3u_2KG-s) [slides](https://docs.google.com/presentation/d/17mYH1CRpXpSBHPe-UNEYzRDCemmEh19VsYvcj4ZI3dk/edit)
 - AI by the Bay Nov 17, 2025: The advent of the open data lake [video](https://www.youtube.com/watch?v=xHGVCVjA_hc) [slides](https://docs.google.com/presentation/d/13cb1qgWnq8J_chk6NgIe1m8Em86-4t3Tp60RAwJRvuY/edit)
